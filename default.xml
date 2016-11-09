@@ -3,7 +3,7 @@
     <remote  name="bcdm"
              fetch=".." />
 
-    <default revision="master"
+    <default revision="develop"
              remote="bcdm"
              sync-j="4" />
 </manifest>
