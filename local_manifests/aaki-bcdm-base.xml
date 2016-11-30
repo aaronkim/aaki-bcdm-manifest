@@ -2,6 +2,4 @@
 <manifest>
     <project name="aaki-bcdm-base-data-java" path="bcdm/base/base-data"/>
     <project name="aaki-bcdm-base-log-java" path="bcdm/base/base-log"/>
-    <project name="aaki-bcdm-component-node-java" path="bcdm/component/component-node"/>
-    <project name="aaki-bcdm-model-cube-java" path="bcdm/model/model-cube"/>
 </manifest>
