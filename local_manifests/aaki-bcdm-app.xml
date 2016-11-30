@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="aaki-bcdm-app-android" path="bcdm-app">
-      <linkfile src="config/root.build.gradle" dest="build.gradle" />
-      <linkfile src="config/root.gradle.properties" dest="gradle.properties" />
-      <linkfile src="config/root.settings.gradle" dest="settings.gradle" />
+      <linkfile src="config/build.gradle.in" dest="build.gradle" />
+      <linkfile src="config/gradle.properties.in" dest="gradle.properties" />
+      <linkfile src="config/settings.gradle.in" dest="settings.gradle" />
     </project>
 </manifest>
