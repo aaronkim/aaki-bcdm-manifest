@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="aaki-bcdm-component-node-java" path="bcdm/component/component-node"/>
+    <project name="aaki-bcdm-component-node-java" path="lib/component/component-node"/>
 </manifest>

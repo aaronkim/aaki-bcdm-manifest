@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="aaki-bcdm-base-data-java" path="bcdm/base/base-data"/>
-    <project name="aaki-bcdm-base-log-java" path="bcdm/base/base-log"/>
+    <project name="aaki-bcdm-base-data-java" path="lib/base/base-data"/>
+    <project name="aaki-bcdm-base-log-java" path="lib/base/base-log"/>
 </manifest>
